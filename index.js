@@ -27,15 +27,15 @@ document.getElementsByClassName("dd-home")[0].addEventListener("click", ()=>{
     document.location.href = "index.html";
 })
 document.getElementsByClassName("dd-plans")[0].addEventListener("click", ()=>{
-    window.location.href = "https://asbplix-plans.netlify.app/";
+    window.location.href = "https://amandeepsinghbhalla.github.io/ASBplix-planss/";
 })
 
 document.getElementsByClassName("try-for-free")[0].addEventListener("click", ()=>{
-    window.location.href = "https://asbplix-signup.netlify.app/";
+    window.location.href = "https://amandeepsinghbhalla.github.io/ASBplix-login/";
 })
 
 document.getElementsByClassName("get-started")[0].addEventListener("click", ()=>{
-    window.location.href = "https://asbplix-signup.netlify.app/";
+    window.location.href = "https://amandeepsinghbhalla.github.io/ASBplix-login/";
 })
 
 document.getElementsByClassName("playstore_icon")[0].addEventListener("click", ()=>{
@@ -46,5 +46,5 @@ document.getElementsByClassName("apple_icon")[0].addEventListener("click", ()=>{
 })
 
 document.getElementsByClassName("user-button-tryforfree")[0].addEventListener("click", ()=>{
-    window.location.href = "https://asbplix-signup.netlify.app/";
+    window.location.href = "https://amandeepsinghbhalla.github.io/ASBplix-login/";
 })
